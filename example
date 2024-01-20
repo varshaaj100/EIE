@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <p>Paragraphs can contain many different kinds of information,<br>A could contain a series of brief examples or a single long illustration of a general point. It might describe a place, character, or process; narrate a series of events;
+    compare or contrast two or more things;
+    classify items into categories; or <br>describe causes and effects.
+    Regardless of the kind of information they contain,
+    all paragraphs share certain characteristics.
+    One of the most important of these is a topic sentence.</p>
+      <hr>
+      <div>ok</div>
+      <h1>hi</h1>
+      <h6>well</h6>
+      <h3>and</h3>
+      <h4>good</h4>
+      <table>
+       <tr>
+          <th>head1</th>
+        </tr>
+        <tr>
+          <td>hhh</td>
+           <td>hhh</td>
+        </tr>
+        <tr>
+          <th>head1</th>
+        </tr>
+        <tr>
+          <td>hhh</td>
+           <td>hhh</td>
+        </tr>
+        <ul>
+          <li>01</li>
+        </ul>
+        <ol>
+          <li>01</li>
+        </ol>
+      </table>
+      <video controls>
+       
+      </video>
+      <audio controls>
+     
+      </audio>
+     
+      <h1 class="title">Hello World! </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>
+<
+div p{
+  background-color: black;
+}
+div ~ ul{
+  background-color: black;
+}
+//flex
+.details{
+  display:flex;
+  justify-content:end;
+  align-items:flex-end;
+  flex-direction: column;
+  flex-wrap:wrap;
+  background-color: azure;
+
+}
