@@ -52,6 +52,9 @@ input [text="course"]{
     }
 }
 @media(max-width:768px){
-    .detail{
+    .detail {
         grid-template-columns: repeat(3,1fr);
     }
+}
+
+
